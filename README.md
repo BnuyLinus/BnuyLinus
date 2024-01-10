@@ -2,7 +2,7 @@ Haii I'm Linus, a techie bunny with memory issues beyond just my Computer. Curre
 I'm definitely on the journey of continuous learning.
 
 I had a year-long adventure with Java,
-but the experience left me a bit traumatized, steering me towards the welcoming embrace of languages like Python and automation scripts such as YAML (Ansible), HCL (Terraform), 
-or good old bash – they align more with my preferences and abilities.
+but the experience left me a bit traumatized, so instead I took on Python at home and automation scripts such as YAML (Ansible), HCL (Terraform), 
+or good old bash at work, they are all way more readable in my opinion. 
 
 If you'd like to connect, whether for a casual chat or to share your thoughts on my arguably written code, feel free to add 'catlinus' on Discord.
