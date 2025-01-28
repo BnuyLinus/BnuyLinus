@@ -1,4 +1,4 @@
-Haii I'm Linus, a techie bunny with memory issues beyond just my Computer. Currently in an apprenticeship as an IT-specialist for system-integration here in Germany, I'm honing my skills in mostly Admin-related stuff, delving into realms like scripting, automation, networking, and Linux wizardry. While I may not be an expert just yet,
+Haii I'm Linus, a techie bunny with memory issues beyond just my Computer. Junior Site Reliability Engineer in Germany, I'm honing my skills in mostly Admin-related stuff, delving into realms like scripting, automation, networking, and Linux wizardry. While I may not be an expert just yet,
 I'm definitely on the journey of continuous learning.
 
 I had a year-long adventure with Java,
